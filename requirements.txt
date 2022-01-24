@@ -1,5 +1,5 @@
-altair
-pandas
 streamlit
 rdkit-pypi
 Pillow
+py3Dmol
+stmol==0.0.7
